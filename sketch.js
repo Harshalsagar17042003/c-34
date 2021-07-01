@@ -10,7 +10,7 @@ var bgImg,sImg,mImg;
 
 function preload(){
 
-   bgImg=loadImage("bg.png");
+   bgImg=loadImage("Bg.png");
    //sImg=loadImage("S.png");
   // mImg=loadImage("M.png");
 
